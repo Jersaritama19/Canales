@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-logo="https://futbollibre.net/img/logo-canal/ESPN.webp",ESPN
 https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/master.m3u8
+
+#EXTINF:-1,ESPN www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
